@@ -1,7 +1,0 @@
-keiken\piscine\chatgpt\conversations\api\entities\QuestionAnswerPair.class
-keiken\piscine\chatgpt\conversations\api\entities\ChatConversation.class
-keiken\piscine\chatgpt\conversations\api\repository\ChatConversationRepository.class
-keiken\piscine\chatgpt\conversations\api\controller\GetSessionsController.class
-keiken\piscine\chatgpt\conversations\api\controller\GetConversationsController.class
-keiken\piscine\chatgpt\conversations\api\ChatgptConversationsApiApplication.class
-keiken\piscine\chatgpt\conversations\api\controller\UpdateConversationController.class
