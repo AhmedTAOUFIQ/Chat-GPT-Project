@@ -2,7 +2,7 @@ package keiken.piscine.chatgpt.conversations.api.controller;
 
 
 import keiken.piscine.chatgpt.conversations.api.entities.ChatConversation;
-import keiken.piscine.chatgpt.conversations.api.repository.ChatConversationRepository;
+import keiken.piscine.chatgpt.conversations.api.repositories.ChatConversationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
