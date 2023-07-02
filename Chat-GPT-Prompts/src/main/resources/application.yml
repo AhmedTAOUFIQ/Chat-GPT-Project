@@ -1,0 +1,20 @@
+server:
+  port: 8095
+
+spring:
+  application:
+    name: ChatGPT-Project-Prompts
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kGPT
+    username: admin
+    password: admin
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+openai_api_key:  ${MY_OPENAI_KEY}

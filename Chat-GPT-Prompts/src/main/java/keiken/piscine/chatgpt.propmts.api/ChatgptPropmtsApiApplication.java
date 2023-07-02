@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ChatgptPropmtsApiApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(ChatgptPropmtsApiApplication.class, args);
 	}
 
